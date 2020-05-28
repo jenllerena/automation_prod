@@ -1,0 +1,22 @@
+{
+  "name": "Automation Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 100000 test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^2.42.1",
+    "excel4node": "^1.7.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "yarn": ">=1.0.0"
+  }
+}
