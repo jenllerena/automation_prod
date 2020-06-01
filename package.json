@@ -1,5 +1,5 @@
 {
-  "name": "Automation Task",
+  "name": "automation_task",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
